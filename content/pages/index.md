@@ -40,7 +40,7 @@ sections:
       subtitle:
         textAlign: left
       text:
-        textAlign: left
+        textAlign: center
       actions:
         textAlign: left
   - type: FeaturedPostsSection
