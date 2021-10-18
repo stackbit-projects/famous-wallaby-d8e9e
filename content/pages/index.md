@@ -36,7 +36,7 @@ sections:
     featurePosition: right
     styles:
       title:
-        textAlign: center
+        textAlign: left
       subtitle:
         textAlign: left
       text:
